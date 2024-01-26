@@ -57,6 +57,7 @@ public class DataTypes {
 		String S9 = "";
 		System.out.println(S9.isEmpty());
 		
+		
 		//Split
 	}
 
