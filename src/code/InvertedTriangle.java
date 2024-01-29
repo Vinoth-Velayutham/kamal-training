@@ -7,7 +7,7 @@ public class InvertedTriangle {
 
 		String shape = "*";
 
-		for (int i = 10; i >= 0; i--) {
+		for (int i = 7; i >= 0; i--) {
 			for (int j = i; j >= 0; j--) {
 				System.out.print(shape);
 			}
